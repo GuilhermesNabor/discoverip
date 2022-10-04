@@ -22,7 +22,7 @@ Discover website domains and IPs;
 Where does it work?
 </h2>
 <p> <br>
-Termux📱, Linux💻 and Windows🖥️.
+Termux📱, Linux💻.
 </p>
 
 
